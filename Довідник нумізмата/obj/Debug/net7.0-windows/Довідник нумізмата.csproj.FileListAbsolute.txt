@@ -1,0 +1,20 @@
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\bin\Debug\net7.0-windows\Довідник нумізмата.exe
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\bin\Debug\net7.0-windows\Довідник нумізмата.deps.json
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\bin\Debug\net7.0-windows\Довідник нумізмата.runtimeconfig.json
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\bin\Debug\net7.0-windows\Довідник нумізмата.dll
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\bin\Debug\net7.0-windows\Довідник нумізмата.pdb
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\Довідник нумізмата.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\Довідник_нумізмата.Form1.resources
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\Довідник нумізмата.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\Довідник нумізмата.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\Довідник нумізмата.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\Довідник нумізмата.AssemblyInfo.cs
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\Довідник нумізмата.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\Довідник нумізмата.dll
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\refint\Довідник нумізмата.dll
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\Довідник нумізмата.pdb
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\Довідник нумізмата.genruntimeconfig.cache
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\ref\Довідник нумізмата.dll
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\Довідник_нумізмата.Form2.resources
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\Довідник_нумізмата.Form3.resources
+C:\Users\PC\source\repos\Довідник нумізмата\Довідник нумізмата\obj\Debug\net7.0-windows\Довідник_нумізмата.Form4.resources
