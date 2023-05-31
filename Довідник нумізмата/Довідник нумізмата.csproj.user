@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="authorization.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GeneralCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OwnCollection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddCoinToOwn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddCoinAndCollector.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
